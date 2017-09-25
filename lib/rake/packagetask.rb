@@ -3,7 +3,7 @@
 # redistributable package files.
 
 require "rake"
-require "rake/tasklib"
+require_relative "tasklib"
 
 module Rake
 

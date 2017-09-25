@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-require "rake/application"
+require_relative "application"
 
 module Rake
 
